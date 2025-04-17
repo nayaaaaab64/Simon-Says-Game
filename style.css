@@ -20,13 +20,22 @@ body{
 }
 
 .green{
- background-color: blanchedalmond;
+    background-color: blanchedalmond;
 }
 
 .red{
- background-color: chocolate;
+    background-color: chocolate;
 }
 
 .purple{
-background-color: darkcyan;
+    background-color: darkcyan;
+}
+
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: green;
 }
